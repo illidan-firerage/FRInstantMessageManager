@@ -1,1 +1,1 @@
-# FRInstantMessageManager
+# InstantMessageManager
