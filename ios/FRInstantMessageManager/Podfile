@@ -1,0 +1,9 @@
+platform :ios, '8.0.0'
+
+#pod 'FirerageKit', :podspec => './PodsSpecs/FirerageKit.podspec'
+
+pod 'CocoaAsyncSocket', '~> 7.4.1'
+
+pod 'CocoaLumberjack'
+
+#pod 'KissXML', '~> 5.0'
